@@ -16,3 +16,11 @@ Ingreso de datoa Json para probar en POSTMAN
 METODO GET: http://localhost:8080/api/alumnos
 
 Devuelve si el promedio del alumno y el estado del alumno. 
+
+
+# INTEGRANTES
+- Valentina Faure
+- Pedro Valderrama
+
+# AYUDANTE
+- Constanza Jazme
